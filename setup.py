@@ -138,7 +138,7 @@ setup(
         "future",
         "backports.csv",
         "beautifulsoup4",
-        "lxml==4.3.2",
+        "lxml==4.9.2",
         "feedparser",
         "pdfminer" if sys.version < "3" else "pdfminer.six",
         "numpy",
